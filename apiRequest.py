@@ -1,0 +1,6 @@
+apiToken = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJlbWFpbCI6IkhlYWx0aGlhbnMwMDAwMDIiLCJjb21wYW55SWQiOiJoZWFsdGhpYW5zIiwiaWF0IjoxNjU4MTI1NDMwfQ.VOGxuxPj_gEZMrHRwV9HwXw5RB4ajjIHnFUD_tAPkcbLN7auXCMI92izl43VZ5QNnUvJJHAMuVDeUszzGQ7erw'
+
+apiLink = "https://app.smartdietplanner.com:8445/api/getDietPlans"
+
+
+
