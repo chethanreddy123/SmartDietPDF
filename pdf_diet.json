@@ -300,7 +300,7 @@
                         "recommendedFor": [
                             "D"
                         ],
-                        "originalPortion": "",
+                        "originalPortion": "",  
                         "foodSource": "INTERNAL",
                         "eaten": -1,
                         "courtesy": "",
